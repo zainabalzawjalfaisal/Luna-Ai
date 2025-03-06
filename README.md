@@ -1,6 +1,6 @@
 # Luna AI
 
-**Luna AI** is an open-source AI model developed by Luna OpenLabs, designed for text classification tasks. Utilizing the powerful BERT architecture, Luna AI efficiently and accurately classifies text into predefined categories. In addition, Luna AI now features an interactive chat interface, allowing you to easily test the model with real-time classification and conversation responses.
+**Luna AI** is an open-source AI model developed by Luna OpenLabs & Sponsored by Hoddz Business Services, designed for text classification tasks. Utilizing the powerful BERT architecture, Luna AI efficiently and accurately classifies text into predefined categories. In addition, Luna AI now features an interactive chat interface, allowing you to easily test the model with real-time classification and conversation responses.
 
 Luna AI is available for integration, development, and deployment, offering flexibility for users and developers alike.
 
